@@ -1,209 +1,250 @@
-# 🐶 Miniguia de Estudos - O Cérebro, Comportamento e Sentimentos dos Cachorros usando NotebookLM
+# 🐶 Miniguia de Estudos — O Cérebro, Emoções e Comportamento dos Cachorros com NotebookLM
 
 ## 📚 Contexto do Projeto
 
-Este projeto foi desenvolvido como desafio da DIO com o objetivo de utilizar o NotebookLM e Inteligência Artificial como ferramentas de aprendizagem ativa.
+Este projeto foi desenvolvido como desafio da DIO com foco no uso do NotebookLM e Inteligência Artificial como ferramentas de aprendizagem ativa.
 
-O tema escolhido foi o funcionamento do cérebro dos cachorros, seus comportamentos e sentimentos, buscando entender melhor como os cães pensam, aprendem, se comunicam e criam vínculos emocionais com os humanos.
+O tema escolhido foi o funcionamento do cérebro dos cachorros, seus sentimentos e comportamentos. O objetivo principal foi compreender como os cães percebem o mundo, criam vínculos emocionais com os humanos, aprendem através de experiências e demonstram emoções através da linguagem corporal.
 
-A proposta deste estudo é ajudar pessoas a compreenderem melhor seus animais de estimação, melhorando a convivência, o cuidado e a comunicação entre humanos e cães.
-
----
-
-## 🎯 Objetivos de Estudo
-
-- Entender como funciona o cérebro canino;
-- Aprender como os cachorros interpretam emoções humanas;
-- Estudar linguagem corporal e comportamento;
-- Identificar sinais de felicidade, medo, ansiedade e estresse;
-- Compreender como os cães aprendem e criam memórias;
-- Utilizar IA para resumir conteúdos complexos e criar materiais educativos.
+Durante o desenvolvimento do projeto, foram utilizados artigos científicos, conteúdos especializados, vídeos educativos e materiais de referência sobre inteligência canina e comportamento animal.
 
 ---
 
-## 🔎 Curadoria de Fontes
+# 🎯 Objetivos de Estudo
 
-As seguintes fontes foram utilizadas no NotebookLM:
-
-1. https://blog.cobasi.com.br/cachorros-pensam/
-
-2. https://www.nationalgeographicbrasil.com/animais/2026/03/cachorros-e-humanos-uma-convivencia-que-existe-ha-muito-mais-tempo-do-que-imaginavamos
-
-3. https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_canina
-
-4. https://www.petz.com.br/blog/cachorros/comportamento-canino/
+- Entender como funciona o cérebro dos cachorros;
+- Aprender como os cães processam emoções;
+- Estudar comportamento e linguagem corporal canina;
+- Identificar sinais de felicidade, medo, ansiedade e confiança;
+- Compreender como os cachorros aprendem;
+- Utilizar IA para organizar estudos e criar materiais educativos;
+- Desenvolver prompts eficientes para extração de conhecimento.
 
 ---
 
-## 🤖 Engenharia de Prompts
+# 🔎 Curadoria de Fontes
 
-### Prompt 1
+## Artigos e Materiais Utilizados
 
-"Explique como funciona o cérebro de um cachorro de forma simples."
+1. [Cobasi — Cachorros pensam?](https://blog.cobasi.com.br/cachorros-pensam/)
+
+2. [National Geographic Brasil — Relação entre Cachorros e Humanos](https://www.nationalgeographicbrasil.com/animais/2026/03/cachorros-e-humanos-uma-convivencia-que-existe-ha-muito-mais-tempo-do-que-imaginavamos)
+
+3. [Wikipedia — Inteligência Canina](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_canina)
+
+4. [Petz — Comportamento Canino](https://www.petz.com.br/blog/cachorros/comportamento-canino/)
+
+5. [YouTube — Como os Cachorros Pensam](https://www.youtube.com/watch?v=2QLjTF-kcUM)
+
+6. [YouTube — Emoções e Inteligência Canina](https://www.youtube.com/watch?v=CNeI9M4t4WM)
+
+7. [Artigo Científico — Canine Emotions and Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC7192336/pdf/cer-04-20.pdf)
+
+---
+
+# 🤖 Engenharia de Prompts
+
+## Prompt 1
+
+> “Explique como funciona o cérebro de um cachorro de forma simples para iniciantes.”
 
 ### Resultado
 
-A IA explicou que o cérebro canino possui áreas responsáveis por emoções, memória, instintos e aprendizado, além de destacar a forte capacidade dos cães de reconhecer emoções humanas.
+A IA explicou que os cães possuem áreas cerebrais responsáveis por emoções, memória, instintos e aprendizado, além da forte capacidade de reconhecer emoções humanas.
 
 ### Dificuldade Encontrada
 
-Algumas respostas ficaram muito científicas, então foi necessário simplificar os prompts utilizando termos mais básicos.
+As primeiras respostas ficaram muito técnicas e científicas. Foi necessário simplificar os prompts utilizando frases como:
+- “explique de forma simples”;
+- “como se fosse para iniciantes”;
+- “resuma em tópicos”.
 
 ---
 
-### Prompt 2
+## Prompt 2
 
-"Como os cachorros demonstram sentimentos?"
+> “Como os cachorros demonstram sentimentos?”
 
 ### Resultado
 
-A IA descreveu sinais corporais como posição da cauda, orelhas, olhar e comportamento social.
+A IA apresentou sinais corporais importantes:
+- posição da cauda;
+- movimentação das orelhas;
+- contato visual;
+- postura corporal;
+- vocalização.
 
 ---
 
-### Prompt 3
+## Prompt 3
 
-"Explique como os cães aprendem através de repetição e recompensa."
+> “Como os cães criam conexão emocional com humanos?”
 
 ### Resultado
 
-A IA apresentou conceitos de condicionamento, associação e reforço positivo.
+Foi explicado que os cães desenvolveram uma convivência histórica com humanos, criando forte capacidade de reconhecer expressões, voz e emoções humanas.
 
 ---
 
-### Prompt 4
+## Prompt 4
 
-"Quais comportamentos indicam ansiedade em cachorros?"
+> “Explique ansiedade e estresse canino.”
 
 ### Resultado
 
-Foram identificados sinais como destruição de objetos, latidos excessivos, inquietação e isolamento.
+A IA identificou comportamentos como:
+- destruição de objetos;
+- latidos excessivos;
+- inquietação;
+- isolamento;
+- comportamento repetitivo.
 
 ---
 
-## 📘 Miniguia de Estudos
+## Prompt 5
 
-# 🧠 Como Funciona o Cérebro do Cachorro
+> “Como funciona o aprendizado canino através do reforço positivo?”
 
-O cérebro dos cães é altamente adaptado para:
-- reconhecer emoções;
-- criar vínculos sociais;
-- aprender padrões;
-- responder rapidamente ao ambiente.
+### Resultado
 
-Os cachorros possuem uma região cerebral ligada às emoções semelhante à dos humanos, permitindo que sintam alegria, medo, apego e ansiedade.
-
-Além disso, os cães conseguem associar sons, expressões faciais e tons de voz ao estado emocional das pessoas.
-
----
-
-# ❤️ Sentimentos dos Cachorros
-
-Os cães podem demonstrar diversos sentimentos:
-
-| Sentimento | Comportamento |
-|---|---|
-| Felicidade | Abanar o rabo, brincar, buscar contato |
-| Medo | Orelhas abaixadas, tremores, esconder-se |
-| Ansiedade | Latidos excessivos, destruição, agitação |
-| Tristeza | Falta de energia, isolamento |
-| Confiança | Barriga exposta, relaxamento |
-
----
-
-# 👀 Linguagem Corporal Canina
-
-Os cachorros se comunicam principalmente através do corpo.
-
-## Sinais importantes:
-
-### 🐕 Cauda
-- Abanando: animação ou felicidade;
-- Entre as pernas: medo ou insegurança.
-
-### 👂 Orelhas
-- Levantadas: atenção;
-- Para trás: medo ou submissão.
-
-### 👁️ Olhar
-- Contato visual suave: confiança;
-- Evitar olhar: desconforto.
-
----
-
-# 🎓 Como os Cachorros Aprendem
-
-Os cães aprendem principalmente por:
+Foi explicado que os cães aprendem através de:
 - repetição;
 - associação;
-- recompensa.
+- recompensas;
+- experiências emocionais.
 
-O reforço positivo é uma das formas mais eficientes de aprendizado.
+---
 
-Exemplo:
-- o cachorro senta;
+# 📘 Miniguia de Estudos
+
+# 🧠 O Cérebro do Cachorro
+
+O cérebro dos cachorros possui estruturas semelhantes às dos humanos relacionadas às emoções e comportamento social.
+
+Os cães conseguem:
+- criar vínculos emocionais;
+- reconhecer vozes;
+- interpretar emoções humanas;
+- associar experiências a sentimentos;
+- memorizar rotinas e padrões.
+
+O olfato é uma das áreas mais desenvolvidas do cérebro canino, sendo fundamental para percepção do ambiente.
+
+---
+
+# ❤️ Emoções Caninas
+
+Os cães demonstram emoções através do comportamento e linguagem corporal.
+
+| Emoção | Comportamento |
+|---|---|
+| Felicidade | Abanar o rabo, brincar, buscar contato |
+| Medo | Tremores, orelhas baixas, esconder-se |
+| Ansiedade | Latidos excessivos, destruição |
+| Confiança | Corpo relaxado, barriga exposta |
+| Tristeza | Falta de energia, isolamento |
+
+---
+
+# 👀 Linguagem Corporal
+
+Os cachorros utilizam o corpo como principal forma de comunicação.
+
+## 🐕 Cauda
+- abanando rapidamente → excitação ou felicidade;
+- entre as pernas → medo ou insegurança.
+
+## 👂 Orelhas
+- levantadas → atenção;
+- para trás → medo ou submissão.
+
+## 👁️ Olhar
+- olhar suave → confiança;
+- evitar contato visual → desconforto.
+
+---
+
+# 🎓 Aprendizado Canino
+
+Os cães aprendem principalmente através de:
+- repetição;
+- associação;
+- recompensa emocional.
+
+O reforço positivo ajuda o cachorro a associar comportamentos corretos a experiências agradáveis.
+
+### Exemplo:
+- o cão senta;
 - recebe carinho ou petisco;
-- associa o comportamento a algo positivo.
+- repete o comportamento futuramente.
 
 ---
 
-# 🧩 Memória Canina
+# 🧩 Inteligência Canina
 
-Os cães possuem:
-- memória associativa;
-- reconhecimento de rotinas;
-- capacidade de lembrar pessoas, lugares e experiências emocionais.
+A inteligência dos cães pode envolver:
+- resolução de problemas;
+- memória;
+- compreensão de comandos;
+- adaptação social;
+- reconhecimento emocional.
 
-Eles não lembram exatamente como humanos, mas associam experiências positivas ou negativas a emoções e situações.
-
----
-
-# 🐾 Relação Entre Humanos e Cachorros
-
-Os cães desenvolveram ao longo dos anos uma forte conexão emocional com os humanos.
-
-Eles conseguem:
-- reconhecer voz;
-- perceber emoções;
-- interpretar linguagem corporal;
-- criar apego emocional profundo.
-
-Essa relação explica por que muitos cães oferecem conforto emocional aos seus donos.
+Algumas raças possuem maior facilidade para treinamento devido à seleção genética e capacidade de aprendizado.
 
 ---
 
-## 📖 Glossário
+# 🤝 Relação Entre Humanos e Cachorros
 
-### Reforço Positivo
+A convivência entre humanos e cães existe há milhares de anos e influenciou diretamente o desenvolvimento emocional e social dos cachorros.
+
+Os cães aprenderam a:
+- interpretar expressões humanas;
+- responder ao tom de voz;
+- reconhecer emoções;
+- desenvolver apego emocional.
+
+Essa conexão explica por que muitos cães oferecem conforto emocional aos humanos.
+
+---
+
+# 📖 Glossário
+
+## Inteligência Canina
+Capacidade do cachorro de aprender, resolver problemas e interpretar estímulos.
+
+## Reforço Positivo
 Método de aprendizado baseado em recompensas.
 
-### Linguagem Corporal
-Forma de comunicação através de movimentos e postura.
+## Linguagem Corporal
+Comunicação através de postura e movimentos.
 
-### Condicionamento
-Aprendizado através de repetição e associação.
-
-### Ansiedade de Separação
+## Ansiedade de Separação
 Estresse causado quando o cachorro fica sozinho.
 
-### Socialização
+## Socialização
 Processo de adaptação com pessoas e outros animais.
 
----
-
-## 💡 Prompts Reutilizáveis
-
-- "Explique esse comportamento canino de forma simples."
-- "Como os cachorros demonstram emoções?"
-- "Crie um resumo sobre linguagem corporal canina."
-- "Explique o funcionamento do cérebro dos cães."
-- "Quais sinais indicam felicidade ou medo em cachorros?"
-- "Transforme esse conteúdo em guia de revisão."
+## Cognição
+Processo mental relacionado à percepção, aprendizado e memória.
 
 ---
 
-## 🚀 Conclusão
+# 💡 Prompts Reutilizáveis
 
-Este projeto permitiu compreender melhor como os cachorros pensam, aprendem e demonstram sentimentos.
+- “Explique esse comportamento canino de forma simples.”
+- “Como os cachorros demonstram emoções?”
+- “Crie um resumo sobre inteligência canina.”
+- “Explique a linguagem corporal dos cães.”
+- “Como os cães reconhecem emoções humanas?”
+- “Transforme esse conteúdo em um guia de revisão.”
+- “Resuma esse artigo científico em tópicos simples.”
 
-Além do estudo sobre comportamento animal, o projeto também mostrou como a Inteligência Artificial pode auxiliar na organização de conhecimento, criação de resumos e desenvolvimento de materiais educativos.
+---
+
+# 🚀 Conclusão
+
+Este projeto ajudou a compreender melhor como os cachorros pensam, aprendem e demonstram emoções.
+
+Além do estudo sobre comportamento animal, o desafio mostrou como ferramentas de Inteligência Artificial podem auxiliar na organização do conhecimento, criação de resumos e desenvolvimento de materiais educativos.
+
+O uso do NotebookLM facilitou a análise de conteúdos científicos, vídeos e artigos, tornando o aprendizado mais dinâmico e acessível.
