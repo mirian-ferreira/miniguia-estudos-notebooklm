@@ -25,15 +25,13 @@ A proposta deste estudo é ajudar pessoas a compreenderem melhor seus animais de
 
 As seguintes fontes foram utilizadas no NotebookLM:
 
-1. https://www.akc.org/expert-advice/lifestyle/the-canine-brain/
+1. https://blog.cobasi.com.br/cachorros-pensam/
 
-2. https://www.nationalgeographicbrasil.com/animais
+2. https://www.nationalgeographicbrasil.com/animais/2026/03/cachorros-e-humanos-uma-convivencia-que-existe-ha-muito-mais-tempo-do-que-imaginavamos
 
-3. https://www.royalcanin.com/br/dogs/behavior-training
+3. https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_canina
 
 4. https://www.petz.com.br/blog/cachorros/comportamento-canino/
-
-5. https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_canina
 
 ---
 
