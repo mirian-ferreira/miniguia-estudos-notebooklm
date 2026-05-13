@@ -26,20 +26,19 @@ Durante o desenvolvimento do projeto, foram utilizados artigos científicos, con
 
 ## Artigos e Materiais Utilizados
 
-1. [Cobasi — Cachorros pensam?](https://blog.cobasi.com.br/cachorros-pensam/)
+1. <a href="https://blog.cobasi.com.br/cachorros-pensam/" target="_blank">Cobasi — Cachorros pensam?</a>
 
-2. [National Geographic Brasil — Relação entre Cachorros e Humanos](https://www.nationalgeographicbrasil.com/animais/2026/03/cachorros-e-humanos-uma-convivencia-que-existe-ha-muito-mais-tempo-do-que-imaginavamos)
+2. <a href="https://www.nationalgeographicbrasil.com/animais/2026/03/cachorros-e-humanos-uma-convivencia-que-existe-ha-muito-mais-tempo-do-que-imaginavamos" target="_blank">National Geographic Brasil — Relação entre Cachorros e Humanos</a>
 
-3. [Wikipedia — Inteligência Canina](https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_canina)
+3. <a href="https://pt.wikipedia.org/wiki/Intelig%C3%AAncia_canina" target="_blank">Wikipedia — Inteligência Canina</a>
 
-4. [Petz — Comportamento Canino](https://www.petz.com.br/blog/cachorros/comportamento-canino/)
+4. <a href="https://www.petz.com.br/blog/cachorros/comportamento-canino/" target="_blank">Petz — Comportamento Canino</a>
 
-5. [YouTube — Como os Cachorros Pensam](https://www.youtube.com/watch?v=2QLjTF-kcUM)
+5. <a href="https://www.youtube.com/watch?v=2QLjTF-kcUM" target="_blank">YouTube — Como os Cachorros Pensam</a>
 
-6. [YouTube — Emoções e Inteligência Canina](https://www.youtube.com/watch?v=CNeI9M4t4WM)
+6. <a href="https://www.youtube.com/watch?v=CNeI9M4t4WM" target="_blank">YouTube — Emoções e Inteligência Canina</a>
 
-7. [Artigo Científico — Canine Emotions and Cognition](https://pmc.ncbi.nlm.nih.gov/articles/PMC7192336/pdf/cer-04-20.pdf)
-
+7. <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC7192336/pdf/cer-04-20.pdf" target="_blank">Artigo Científico — Canine Emotions and Cognition</a>
 ---
 
 # 🤖 Engenharia de Prompts
